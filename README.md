@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm rzcode1991 👋
 
-<!--
-**rzcode1991/rzcode1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm an **Android developer** passionate about crafting elegant mobile experiences. My specialty is building robust, scalable apps using **Kotlin** and **Jetpack Compose**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 **Profession:** Android Developer  
+- 🛠️ **Tech Stack:** Kotlin, Jetpack Compose, Android SDK  
+- 🎨 **Focus:** Modern UI/UX, clean architecture, performance
+
+---
+
+## 🌟 Featured Project
+
+### [DateMate](https://github.com/rzcode1991/DateMate_mine)
+
+A complete social & dating app built with Jetpack Compose.  
+- Real-time chat, video calls, in-app purchases, profile management, admin control panel  
+- Modern UI with Compose and Material Design
+
+Explore the [DateMate repository](https://github.com/rzcode1991/DateMate_mine) or check out the [DateMatePanel](https://github.com/rzcode1991/DateMatePanel) for admin controls.
+
+---
+
+## 📦 Other Notable Repos
+
+- [Poker](https://github.com/rzcode1991/poker): Online Poker game with jetpack compose
+
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out if you want to collaborate or just chat about Android development!  
+rzslmn90@gmail.com
+
+---
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
