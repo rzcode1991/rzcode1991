@@ -1,6 +1,6 @@
 # Hi, I'm rzcode1991 👋
 
-Welcome to my GitHub! I'm an **Android developer** passionate about crafting elegant mobile experiences. My specialty is building robust, scalable apps using **Kotlin** and **Jetpack Compose**.
+Welcome to my GitHub! I describe myself a **Mid-level Android developer** with great taste, passionate about crafting elegant mobile experiences. My specialty is building robust, scalable apps using **Kotlin** and **Jetpack Compose**.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an **Android developer** passionate about crafting ele
 
 ## 🌟 Featured Project
 
-### [DateMate](https://github.com/rzcode1991/DateMate_mine)
+### [DateMate](https://github.com/rzcode1991/DateMate_mine) (well it's private though :))
 
 A complete social & dating app built with Jetpack Compose.  
 - Real-time chat, video calls, in-app purchases, profile management, admin control panel  
