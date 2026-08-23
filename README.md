@@ -100,6 +100,7 @@ These capabilities and integrations are described in my resume.
 
 <p align="center">
   <img src="screenshots/photo_2026-08-23_15-51-25.jpg" width="200">
+  <img src="screenshots/photo_2026-08-23_16-57-50.jpg" width="200">
   <img src="screenshots/photo_2026-08-23_15-49-12.jpg" width="200">
   <img src="screenshots/photo_2026-08-23_15-49-16.jpg" width="200">
 </p>
